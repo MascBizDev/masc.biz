@@ -1,4 +1,4 @@
 ---
-redirect: https://github.com/Cecilapp/cecil.link
+redirect: https://github.com/MascBizDev/masc.biz
 
 ---
